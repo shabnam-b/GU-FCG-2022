@@ -8,10 +8,10 @@ This is our submission to GenChal:FCG@INLG2023:
 
 <br>
 To create pseudo-data:<br>
-- Download ICNALE "Edited Essays" version from [here](https://language.sakura.ne.jp/icnale/download.html), it includes essay pairs: the original and the corrected version.<br>
-- You can find W&I+LOCNESS sentence pairs [here](https://www.cl.cam.ac.uk/research/nl/bea2019st/#data) <br>
-- You can run [ERRANT](https://github.com/chrisjbryant/errant) to get error types. <br>
-- You can fine-tune T5 by adapting [this script](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/flan-t5-samsum-summarization.ipynb) <br>
+Download ICNALE "Edited Essays" version from [here](https://language.sakura.ne.jp/icnale/download.html), it includes essay pairs: the original and the corrected version.<br>
+You can find W&I+LOCNESS sentence pairs [here](https://www.cl.cam.ac.uk/research/nl/bea2019st/#data) <br>
+You can run [ERRANT](https://github.com/chrisjbryant/errant) to get error types. <br>
+You can fine-tune T5 by adapting [this script](https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/flan-t5-samsum-summarization.ipynb) <br>
 
 ## Citation
 If you find this work useful for your research, please cite our paper:
