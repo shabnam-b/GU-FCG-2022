@@ -6,8 +6,7 @@ This is our submission to GenChal:FCG@INLG2023:
 > [Sentence-level Feedback Generation for English Language Learners: Does Data Augmentation Help?](https://aclanthology.org/2023.inlg-genchal.8) <br>
 > [Shabnam Behzad](https://shabnam-b.github.io/), [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/), [Nathan Schneider](https://people.cs.georgetown.edu/nschneid/) <br>
 
-<br>
-To create pseudo-data:
+<strong>To create pseudo-data</strong>:
 - Download ICNALE "Edited Essays" version from [here](https://language.sakura.ne.jp/icnale/download.html), it includes essay pairs: the original and the corrected version.
 - You can find W&I+LOCNESS sentence pairs [here](https://www.cl.cam.ac.uk/research/nl/bea2019st/#data).
 - You can run [ERRANT](https://github.com/chrisjbryant/errant) to get error types.
